@@ -1,0 +1,9 @@
+* asn1
+
+ASN.1 decoder
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/asn1.git |
+| commit  | b0388fa                                   |
+| systems | asn1                                      |
+|---------+-------------------------------------------|
